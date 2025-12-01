@@ -220,3 +220,4 @@ Félix Jouary - Financial Engineering Specialization
 
 - Dataset: [Kaggle Gold Price Dataset](https://www.kaggle.com/datasets/rizkykiky/gold-price-dataset)
 - Course: Machine Learning Project 2025
+
